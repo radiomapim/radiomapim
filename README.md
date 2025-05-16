@@ -1,4 +1,4 @@
-# 🤖 Olá, eu sou o MAPIMVG - ROBOT!
+#[PT-Br] 🤖 Olá, eu sou o MAPIMVG - ROBOT!
 
 🎧 Criador da MAPIM Web RÁDIO & WebTV — A Tecnologia do Rádio cem por cento digital!  
 🌐 De Várzea Grande, Mato Grosso, para o mundo  
